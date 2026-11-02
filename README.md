@@ -3,9 +3,11 @@
 Bright Controller is a lightweight Windows utility that allows you to easily control your monitors' brightness and contrast directly from your desktop. No more awkward fumbling with physical monitor OSD (On-Screen Display) buttons—manage everything seamlessly via software.
 
 <p align="center">
-  <img src="screenshot.jpg" alt="Bright Controller App Preview" width="500">
+  <a href="https://github.com">
+    <img src="https://github.com" alt="Bright Controller App Preview" width="500">
+  </a>
 </p>
-![Bright Controller Screenshot](screenshot.jpg)
+[![Bright Controller Screenshot](https://github.com)](https://github.com)
 ## 🚀 Features
 
 *   **OSD-Free Control:** Adjust brightness and contrast without touching your physical monitor buttons.
