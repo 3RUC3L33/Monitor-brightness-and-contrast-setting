@@ -4,7 +4,7 @@ Bright Controller is a lightweight Windows utility that allows you to easily con
 
 <p align="center">
   <a href="https://githubusercontent.com" target="_blank">
-    <img src="https://github.com/3RUC3L33/Monitor-brightness-and-contrast-setting/screenshot.jpg" alt="Bright Controller App Preview" width="600" style="max-width: 100%;">
+    <img src="https://github.com/3RUC3L33/Monitor-brightness-and-contrast-setting/blob/main/Screenshot.jpg" alt="Bright Controller App Preview" width="600" style="max-width: 100%;">
   </a>
 </p>
 ## 🚀 Features
